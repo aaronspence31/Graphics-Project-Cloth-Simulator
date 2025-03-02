@@ -1,4 +1,4 @@
-# Graphics Project - Cloth Simulation
+# Graphics Project - Cloth Simulator
 
 ## Project Overview
 
