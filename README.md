@@ -1,4 +1,4 @@
-# CS488 Final Project - Cloth Simulation
+# Graphics Project - Cloth Simulation
 
 ## Project Overview
 
@@ -150,10 +150,6 @@ system. The system allows for realistic cloth behavior under various conditions,
 collisions with different types of objects while maintaining stability using strain limiting.
 
 ## Implementation Details
-
-This section is provided as a means of allowing graders of my project to easily be able to find all the code relevant to
-the implementation of this final project in the cs488.h file. I tried to document the code well to make it easier to
-understand for graders.
 
 The `ClothParticle` class represents individual particles in the cloth:
 
