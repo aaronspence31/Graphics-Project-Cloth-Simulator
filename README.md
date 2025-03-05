@@ -4,7 +4,9 @@
 
 This project uses a mass-spring particle system to construct a physically-based cloth simulation. It simulates the
 behavior and look of cloth, taking into account both internal and external forces, collisions with different
-objects, and realistic physics-based shading. Please reach out to me directly if you'd like to see the code.
+objects, and realistic physics-based shading.
+
+## Please reach out to me directly if you'd like to see the code.
 
 ## How to Run
 
