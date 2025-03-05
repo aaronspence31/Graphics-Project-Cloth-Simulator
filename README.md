@@ -8,6 +8,9 @@ objects, and realistic physics-based shading.
 
 ## Please reach out to me directly if you'd like to see the code.
 
+I completed this project as part of a course so for academic integrity reasons, I don't want to make it publicly
+available, but upon request I am happy to explore the code with anyone if they want to see it.
+
 ## How to Run
 
 Provide the `simulation_number` as a single command line argument to run the corresponding simulation. If you don't
